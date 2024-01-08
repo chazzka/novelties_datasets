@@ -1,9 +1,11 @@
-@relation 'Adam_clicked_novelties: -C -3'
+@relation 'Adam_clicked_novelties: -C 1'
 
 @attribute x_att numeric
 @attribute y_att numeric
 @attribute class- {0,1}
 
+
+@data
 
 12.703661956432436,492.17820820659307,0
 24.66623043693527,453.5799669743828,0
